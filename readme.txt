@@ -1,5 +1,4 @@
-这个项目包含两个文件
-1、net_chatroom_client
-	示例一个基于python开发的网络聊天室软件的客户端
-2、net_chatroom_server
-	示例一个基于python开发的网络聊天室软件的服务端
+这个项目包含一个文件
+1、http_server_v2.0.py
+	示例一个基于python开发的http响应服务端
+
